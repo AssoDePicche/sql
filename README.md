@@ -4,12 +4,12 @@ HackerRank's SQL challenges.
 
 ## Topics
 
-- [Basic Select](code/Basic%20Select/)
-- [Advanced Select](code/Advanced%20Select/)
-- [Aggregation](code/Aggregation)
-- [Basic Join](code/Basic%20Join/)
-- [Advanced Join](code/Advanced%20Join/)
-- [Alternative Queries](codeAlternative%20Queries/)
+- [Basic Select](src/Basic%20Select/)
+- [Advanced Select](src/Advanced%20Select/)
+- [Aggregation](src/Aggregation)
+- [Basic Join](src/Basic%20Join/)
+- [Advanced Join](src/Advanced%20Join/)
+- [Alternative Queries](src/Alternative%20Queries/)
 
 ## Project Structure
 
