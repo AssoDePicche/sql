@@ -17,7 +17,7 @@ HackerRank's SQL challenges.
 
 ## Contributing
 
-To contribuit to this project [follow these steps](./CONTRIBUTING).
+To contribuit to this project [follow these steps](./CONTRIBUTING.md).
 
 ## Getting started
 
